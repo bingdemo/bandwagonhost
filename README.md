@@ -1,5 +1,14 @@
 ![avatar](https://f000.backblazeb2.com/file/juchangs/FireShot+Capture+047+-+Mass+VPS+hosting+on+Enterprise+equipment+-+BandwagonHost+VPS+-+bwh81.net.png)
 [2021最新搬瓦工购买教程](https://www.shluqu.cn/2252.html)  |  [最好的vps推荐](https://www.shluqu.cn/)  |  [最优惠的云虚拟机推荐](https://www.shluqu.cn/16.html)
+
+搬瓦工隶属于加拿大 IT7 Networks 旗下，从 2004 年开始，IT7 Networks 便开始提供虚拟主机、VPS、独立服务器等服务。搬瓦工的英文名为 BandwagonHost，由于发音类似搬瓦工（BanWaGong），于是国人喜欢亲切的将其称为搬瓦工。
+
+搬瓦工目前已经实现全自动化运维和管理，所有的 VPS 都会在购买后实时开通。搬瓦工的 VPS 管理面板 KiwiVM 由搬瓦工亲自开发，并已实现高度自动化，提供完善的 API 接口，足见其技术实力之强大。搬瓦工的所有 VPS 方案都提供 99.99% 的在线率保障，并且背后有专业的运维团队提供技术支持，所有机房、线路的问题基本都能在半小时之内得到解决。搬瓦工目前的 IP 保有量已经达到了 38.5 万个，并且还在持续增加，已高效服务全球几十万客户，值得信赖，非常适合建站。
+
+## 搬瓦工官网：
+
+搬瓦工官网 1： [bandwagonhost.com](https://bandwagonhost.com/aff.php?aff=50309) （无法直接访问）
+搬瓦工官网 2： [bwh81.net](https://bwh81.net/aff.php?aff=50309) （官方站点，放心访问）
 <div class="col-sm-12">
 	<div class="bootstrap-table">
 		<div class="fixed-table-toolbar">
