@@ -1,4 +1,3 @@
-![avatar](https://f000.backblazeb2.com/file/juchangs/FireShot+Capture+047+-+Mass+VPS+hosting+on+Enterprise+equipment+-+BandwagonHost+VPS+-+bwh81.net.png)
 [2021最新搬瓦工购买教程](https://www.shluqu.cn/2252.html)  |  [最好的vps推荐](https://www.shluqu.cn/)  |  [最优惠的云虚拟机推荐](https://www.shluqu.cn/16.html)
 
 搬瓦工隶属于加拿大 IT7 Networks 旗下，从 2004 年开始，IT7 Networks 便开始提供虚拟主机、VPS、独立服务器等服务。搬瓦工的英文名为 BandwagonHost，由于发音类似搬瓦工（BanWaGong），于是国人喜欢亲切的将其称为搬瓦工。
